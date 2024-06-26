@@ -22,7 +22,7 @@ function FollowerList() {
     }, []);
 
     const removePerson = (uid) => {
-        const newList = list.filter((person) => person.uid !== uid);
+        const newList = sortedList.filter((person) => person.uid !== uid);
         setList(newList);
         setSortedList(newList);
     };
