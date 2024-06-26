@@ -1,4 +1,4 @@
-# Follower List Sorting App
+# Follower List - Twubric Test
 
 This is a React application that displays a list of followers and allows you to sort and filter the followers based on various criteria such as Twubric score, friends, influence, chirpiness, and join date.
 
